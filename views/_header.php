@@ -19,5 +19,6 @@
 	<link rel="stylesheet" href="/static/js/jquery-3.3.1.min.js">
 	<link rel="stylesheet" href="/static/js/bootstrap.min.js">
 	<link rel="stylesheet" href="/static/css/global.js?<?=time()?>">
+	<link rel="stylesheet" href="/vendor/tinymce/tinymce.min.js">
 	<title></title>
 </head>
