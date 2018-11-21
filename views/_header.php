@@ -14,5 +14,10 @@
 	<meta property="og:title" content="">
 	<meta property="og:type" content="website">
 	<meta property="og:description" content="">
+	<link rel="stylesheet" href="/static/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/static/css/global.css?<?=time()?>">
+	<link rel="stylesheet" href="/static/js/jquery-3.3.1.min.js">
+	<link rel="stylesheet" href="/static/js/bootstrap.min.js">
+	<link rel="stylesheet" href="/static/css/global.js?<?=time()?>">
 	<title></title>
 </head>
